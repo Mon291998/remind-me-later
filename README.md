@@ -12,6 +12,6 @@ Pick a date and time to schedule your reminder
 
 Enter your email address to receive a notification
 
-Clean and responsive UI with a purple aesthetic
+Clean and responsive UI 
 
 Backend powered by Node.js for email integration
